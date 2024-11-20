@@ -7,3 +7,4 @@ risingwave.toml
 homework/
 .DS_Store
 slides.key
+.idea
